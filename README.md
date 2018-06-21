@@ -1,0 +1,1 @@
+GraphQL project with MongoDB for education purpose
